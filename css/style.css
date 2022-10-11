@@ -1,0 +1,45 @@
+*{
+    font-family: Tahoma, verdana, segoe, sans-serif;
+}
+.fondogreen{
+    background-color:#008000;
+    
+}
+.colorwhite{
+    color:#FFFFFF;
+}
+.centrado{
+    text-align: center;
+}
+.fondoyellow{
+    background-color:#ffff00;
+}
+#fondonaranja{
+    background-color: #ffa500;
+}
+.texto2em{
+    font-size: 2em;
+}
+.colorgreen{
+    color: #008000;
+}
+.texto25em{
+    font-size: 2.5em;
+}
+.listacolor p:nth-child(odd){
+    color:#ff0000;
+}
+.listacolor p:nth-child(even){
+    color:#008000;
+}
+/* .lista1 p::nth-last-child(2){
+    color:#ff0000;
+    text-decoration: line-through;
+
+} */
+#texto15em{
+    font-size: 1.5em;
+}
+#enlacesinsub a{
+    text-decoration: none;
+}
